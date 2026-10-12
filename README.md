@@ -1,4 +1,22 @@
-\# 💊 MediTrack — Medicine Expiry \& Availability Tracker
+## ## 🚀 Live Demo
+
+Try the application online: **(https://mamata-meditrack.streamlit.app/)**
+
+## ✨ Key Features
+- Track medicine batches, quantities, and expiry dates.
+- Identify medicines that are expired or nearing expiry.
+- Receive low-stock alerts.
+- Search and manage inventory records.
+- Download inventory data as a CSV file.
+- Visualize expiry status using charts.
+
+## 🛠️ Tech Stack
+Python | Streamlit | Pandas | CSV
+
+## 🎯 Project Goal
+MediTrack helps small pharmacies and clinics monitor medicine inventory and identify expiry and stock-level risks more efficiently.
+
+*Note: This is a portfolio demonstration, not a validated clinical or pharmacy management system.*\# 💊 MediTrack — Medicine Expiry \& Availability Tracker
 
 
 
